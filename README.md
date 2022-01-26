@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Poursina
-- 👀 I’m interested in Biological Physics, Computational Biology
+- 👀 I’m interested in Biological Physics, Complex systems
 - 🌱 I’m currently learning different aspects of Physics and mathematics and application of computer science in Biology and Chemistry
 - 📫 How to reach me: ali.poursina12@gmail.com
 <!---
